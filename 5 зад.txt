@@ -1,0 +1,7 @@
+mov a, 3
+mov b,a
+rar:
+dec b
+mul b
+cmp b,1
+jnz rar

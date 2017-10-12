@@ -1,0 +1,7 @@
+JMP entrance 
+DB 8
+DB 3
+entrance: 
+MOV A, 8 
+MOV B, 3 
+ADD A, B 
